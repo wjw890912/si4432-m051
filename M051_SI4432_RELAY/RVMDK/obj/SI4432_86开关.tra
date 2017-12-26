@@ -1,0 +1,36 @@
+*** Creating Trace Output File '.\obj\SI4432_86开关.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\main.o"'
+### List of Objects: adding '".\obj\gpio.o"'
+### List of Objects: adding '".\obj\fmc.o"'
+### List of Objects: adding '".\obj\si4432.o"'
+### List of Objects: adding '".\obj\core_cm0.o"'
+### List of Objects: adding '".\obj\system_m051series.o"'
+### List of Objects: adding '".\obj\startup_m051series.o"'
+### List of Objects: adding '".\obj\drvadc.o"'
+### List of Objects: adding '".\obj\drvebi.o"'
+### List of Objects: adding '".\obj\drvfmc.o"'
+### List of Objects: adding '".\obj\drvgpio.o"'
+### List of Objects: adding '".\obj\drvi2c.o"'
+### List of Objects: adding '".\obj\drvpwm.o"'
+### List of Objects: adding '".\obj\drvspi.o"'
+### List of Objects: adding '".\obj\drvsys.o"'
+### List of Objects: adding '".\obj\drvtimer.o"'
+### List of Objects: adding '".\obj\drvuart.o"'
+### List of Objects: adding '".\obj\retarget.o"'
+### List of Objects: adding '".\obj\si4432_proto.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M0 ".\obj\main.o" ".\obj\gpio.o" ".\obj\fmc.o" ".\obj\si4432.o" ".\obj\core_cm0.o" ".\obj\system_m051series.o" ".\obj\startup_m051series.o" ".\obj\drvadc.o" ".\obj\drvebi.o" ".\obj\drvfmc.o" ".\obj\drvgpio.o" ".\obj\drvi2c.o" ".\obj\drvpwm.o" ".\obj\drvspi.o" ".\obj\drvsys.o" ".\obj\drvtimer.o" ".\obj\drvuart.o" ".\obj\retarget.o" ".\obj\si4432_proto.o" --library_type=microlib --ro-base 0x00000000 --entry 0x00000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\list\SI4432_86开关.map" -o ".\obj\SI4432_86开关.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\obj\SI4432_86开关.axf'
+### ADS-LD Command File: '.\obj\SI4432_86开关.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\obj\SI4432_86开关.lnp', Handle=0x00000574
+### Writing '.lnp' file
+### ADS-LD Command file '.\obj\SI4432_86开关.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

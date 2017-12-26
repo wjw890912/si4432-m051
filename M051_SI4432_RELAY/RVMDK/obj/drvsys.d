@@ -1,0 +1,9 @@
+.\obj\drvsys.o: ..\Lib\DrvSYS.c
+.\obj\drvsys.o: E:\Keil\ARM\RV31\INC\stdio.h
+.\obj\drvsys.o: ..\Include\DrvSYS.h
+.\obj\drvsys.o: ..\Include\M051Series.h
+.\obj\drvsys.o: ..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\drvsys.o: E:\Keil\ARM\RV31\INC\stdint.h
+.\obj\drvsys.o: ..\Lib\system_M051Series.h
+.\obj\drvsys.o: ..\Include\SysInfra.h
+.\obj\drvsys.o: ..\Include\ModuleID.h

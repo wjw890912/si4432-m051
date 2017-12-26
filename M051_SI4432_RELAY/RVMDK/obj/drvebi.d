@@ -1,0 +1,10 @@
+.\obj\drvebi.o: ..\Lib\DrvEBI.c
+.\obj\drvebi.o: E:\Keil\ARM\RV31\INC\stdio.h
+.\obj\drvebi.o: ..\Include\DrvEBI.h
+.\obj\drvebi.o: ..\Include\M051Series.h
+.\obj\drvebi.o: ..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\drvebi.o: E:\Keil\ARM\RV31\INC\stdint.h
+.\obj\drvebi.o: ..\Lib\system_M051Series.h
+.\obj\drvebi.o: ..\Include\SysInfra.h
+.\obj\drvebi.o: ..\Include\ModuleID.h
+.\obj\drvebi.o: ..\Include\DrvGPIO.h

@@ -1,0 +1,17 @@
+.\obj\si4432.o: ..\SI4432_Driver\SI4432.c
+.\obj\si4432.o: E:\Keil\ARM\RV31\INC\stdio.h
+.\obj\si4432.o: ..\Include\M051Series.h
+.\obj\si4432.o: ..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\si4432.o: E:\Keil\ARM\RV31\INC\stdint.h
+.\obj\si4432.o: ..\Lib\system_M051Series.h
+.\obj\si4432.o: ..\Include\SysInfra.h
+.\obj\si4432.o: ..\Include\ModuleID.h
+.\obj\si4432.o: ..\Include\DrvSYS.h
+.\obj\si4432.o: ..\Include\DrvUART.h
+.\obj\si4432.o: ..\Include\DrvFMC.h
+.\obj\si4432.o: ..\Include\DrvGPIO.h
+.\obj\si4432.o: ..\MAIN\main.h
+.\obj\si4432.o: ..\USART\USART.h
+.\obj\si4432.o: ..\GPIO\GPIO.h
+.\obj\si4432.o: ..\Include\DrvTIMER.h
+.\obj\si4432.o: ..\SI4432_Driver\SI4432.H

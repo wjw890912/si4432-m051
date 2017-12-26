@@ -1,0 +1,9 @@
+.\obj\drvi2c.o: ..\Lib\DrvI2C.c
+.\obj\drvi2c.o: E:\Keil\ARM\RV31\INC\stdio.h
+.\obj\drvi2c.o: ..\Include\DrvI2C.h
+.\obj\drvi2c.o: ..\Include\M051Series.h
+.\obj\drvi2c.o: ..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\drvi2c.o: E:\Keil\ARM\RV31\INC\stdint.h
+.\obj\drvi2c.o: ..\Lib\system_M051Series.h
+.\obj\drvi2c.o: ..\Include\SysInfra.h
+.\obj\drvi2c.o: ..\Include\ModuleID.h

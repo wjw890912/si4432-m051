@@ -1,0 +1,11 @@
+.\obj\drvuart.o: ..\Lib\DrvUART.c
+.\obj\drvuart.o: E:\Keil\ARM\RV31\INC\stdio.h
+.\obj\drvuart.o: ..\Lib\M051Series.h
+.\obj\drvuart.o: ..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\drvuart.o: E:\Keil\ARM\RV31\INC\stdint.h
+.\obj\drvuart.o: ..\Lib\system_M051Series.h
+.\obj\drvuart.o: ..\Include\SysInfra.h
+.\obj\drvuart.o: ..\Include\ModuleID.h
+.\obj\drvuart.o: ..\Include\DrvUART.h
+.\obj\drvuart.o: ..\Include\M051Series.h
+.\obj\drvuart.o: ..\Include\DrvSYS.h

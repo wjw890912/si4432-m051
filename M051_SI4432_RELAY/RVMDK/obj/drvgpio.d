@@ -1,0 +1,9 @@
+.\obj\drvgpio.o: ..\Lib\DrvGPIO.c
+.\obj\drvgpio.o: E:\Keil\ARM\RV31\INC\stdio.h
+.\obj\drvgpio.o: ..\Include\DrvGPIO.h
+.\obj\drvgpio.o: ..\Include\M051Series.h
+.\obj\drvgpio.o: ..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\drvgpio.o: E:\Keil\ARM\RV31\INC\stdint.h
+.\obj\drvgpio.o: ..\Lib\system_M051Series.h
+.\obj\drvgpio.o: ..\Include\SysInfra.h
+.\obj\drvgpio.o: ..\Include\ModuleID.h

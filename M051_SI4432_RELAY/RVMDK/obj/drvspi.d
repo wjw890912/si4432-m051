@@ -1,0 +1,10 @@
+.\obj\drvspi.o: ..\Lib\DrvSPI.c
+.\obj\drvspi.o: ..\Lib\M051Series.h
+.\obj\drvspi.o: ..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\drvspi.o: E:\Keil\ARM\RV31\INC\stdint.h
+.\obj\drvspi.o: ..\Lib\system_M051Series.h
+.\obj\drvspi.o: ..\Include\SysInfra.h
+.\obj\drvspi.o: ..\Include\ModuleID.h
+.\obj\drvspi.o: ..\Include\DrvSPI.h
+.\obj\drvspi.o: ..\Include\M051Series.h
+.\obj\drvspi.o: ..\Include\DrvSYS.h
